@@ -1,4 +1,4 @@
-HandDetection
+
 Overview
 HandDetection is a real-time hand tracking and distance measurement project utilizing OpenCV and MediaPipe. This project focuses on accurately detecting hand landmarks and calculating distances between keypoints, making it a robust tool for applications requiring precise hand position tracking.
 
